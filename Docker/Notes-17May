@@ -129,6 +129,7 @@ Port Forwarding OR Port Mapping:
 ===================================
 
 By default an application on docker container is avaibale on its exposed port.
+an exposed port refers to a port that the application running inside a Docker container makes available for communication.
 
 It is the users internet that cannot reach the container port
 
